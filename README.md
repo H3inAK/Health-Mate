@@ -77,8 +77,4 @@ Contributions are welcome! Follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-
-For inquiries, contact [csthantzinoo@gamil.com] or visit the [GitHub repository](https://github.com/H3inAK/Health-Mate).
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE. See `LICENSE` for details.
